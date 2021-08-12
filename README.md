@@ -17,6 +17,7 @@
 * 數位模型［整體木構3D］：
 
 Bookcase 01_80cm高_開放式書櫃
+Digital Model Link: https://skfb.ly/oprNw
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
