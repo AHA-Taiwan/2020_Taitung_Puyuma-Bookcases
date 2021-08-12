@@ -1,4 +1,4 @@
-# 2020_Taitung_Puyuma Bookcases
+# 2020-Taitung-Puyuma Bookcases
 
 >Humanitarian Architecture in Taitung<br/>
 >
@@ -13,13 +13,31 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
 ***
 ## 專案介紹：<br/>
-* 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
-* 數位模型［整體木構3D］：<br/>
+* 主要建材：台灣杉 [14.4 x 3 x 360cm]、[14.4 x 4.2 x 360cm]和[9.6 x 4.2 x 360cm] 尺寸。
+* 數位模型［整體木構3D］：
+* 捕手位置 Catcher's Position: https://skfb.ly/ooMID
+* 投手位置 Pitcher's Position: https://skfb.ly/ooMI8
+
+捕手位置 Catcher's Position
 <br/>
-Bookcase 01_80cm 高開放式書櫃<br/>
-Digital Model: https://skfb.ly/oprNw<br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
+<br/>
+<br/>
+投手位置 Pitcher's Position
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Pitcher_s%20Position.png)
+<br/>
+<br/>
+捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Catcher_s%20Position.gif)
+<br/>
+<br/>
+投手區施工步驟（Construction Process of the Pitcher's Position）<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Pitcher_s%20Position.gif)
 <br/>
 <br/>
 ***
