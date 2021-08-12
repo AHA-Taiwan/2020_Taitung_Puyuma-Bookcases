@@ -10,7 +10,7 @@
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 * Google Map 位置：https://goo.gl/maps/DzHPxMKoTSe8Cu4t6  <br/>
 
-![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/PB_GMap.png)
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
 ***
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [15 x 4 x 360cm]、黃檜木 [15 x 4.2 x 250cm]、三分三六夾板 [190 x 180 x 0.9 cm]、L型鐵件 [6.5 x 6.5 x 0.1 cm]、不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。
