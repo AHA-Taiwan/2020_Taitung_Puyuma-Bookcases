@@ -13,7 +13,7 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
 ***
 ## 專案介紹：<br/>
-* 主要建材：台灣杉 [14.4 x 3 x 360cm]、[14.4 x 4.2 x 360cm]和[9.6 x 4.2 x 360cm] 尺寸。
+* 主要建材：柳杉直拼板 [14.4 x 3 x 360cm]、[14.4 x 4.2 x 360cm]和[9.6 x 4.2 x 360cm] 尺寸。
 * 數位模型［整體木構3D］：
 * 捕手位置 Catcher's Position: https://skfb.ly/ooMID
 * 投手位置 Pitcher's Position: https://skfb.ly/ooMI8
