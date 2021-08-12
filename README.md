@@ -20,21 +20,6 @@ Bookcase 01_80cm 高開放式書櫃<br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
-Bookcases 02_80cm 高可關閉式書櫃<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_04.png)
-<br/>
-<br/>
-Bookcases 03_上下層高書櫃<br/>
-<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_03.png)
-<br/>
-<br/>
-Bookcases 04_地面可堆疊、坐的開放式小書櫃<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_02.png)
-<br/>
-<br/>
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
