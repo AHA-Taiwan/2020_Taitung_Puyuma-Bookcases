@@ -13,10 +13,11 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
 ***
 ## 專案介紹：<br/>
-* 主要建材：台灣杉 [15 x 4 x 360cm]、黃檜木 [15 x 4.2 x 250cm]、三分三六夾板 [190 x 180 x 0.9 cm]、L型鐵件 [6.5 x 6.5 x 0.1 cm]、不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。
-* 數位模型［整體木構3D］：https://skfb.ly/ooK9t
+* 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
+* 數位模型［整體木構3D］：
 <br/>
 Bookcase 01_80cm 高開放式書櫃<br/>
+Digital Modle: https://skfb.ly/oprNw<br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
