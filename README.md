@@ -16,7 +16,7 @@
 * 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
 * 數位模型［整體木構3D］：
 
-Bookcase 01_80cm高_開放式書櫃
+Bookcase 01_80cm高_開放式書櫃<br/>
 Digital Model Link: https://skfb.ly/oprNw
 <br/>
 <br/>
