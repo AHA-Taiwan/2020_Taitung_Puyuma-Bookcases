@@ -13,7 +13,7 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
 ***
 ## 專案介紹：<br/>
-* 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
+* 主要建材：柳杉直拼板 [120 x 240 x 1.8cm]、[90 x 240 x 3.6cm] 和 [90 x 240 x 1.8cm] 尺寸。
 * 數位模型［整體木構3D］：
 
 Bookcase 01_80cm高_開放式書櫃<br/>
