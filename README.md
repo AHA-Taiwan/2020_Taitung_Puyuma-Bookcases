@@ -19,8 +19,6 @@
 Bookcase 01_80cm 高開放式書櫃<br/>
 Digital Model: https://skfb.ly/oprNw<br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
-<br/>
 <br/>
 ***
 ## 如何達成合作建造：<br/>
