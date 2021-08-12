@@ -22,10 +22,10 @@ Bookcase 01_80cm高_開放式書櫃
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
-投手位置 Pitcher's Position
+Bookcase 02_80cm高_可關閉式書櫃
 <br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Pitcher_s%20Position.png)
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_02.png)
 <br/>
 <br/>
 捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
