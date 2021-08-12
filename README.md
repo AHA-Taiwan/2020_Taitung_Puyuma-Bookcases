@@ -16,10 +16,10 @@
 * 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
 * 數位模型［整體木構3D］：
 
-Bookcase 01_80cm 高開放式書櫃
+Bookcase 01_80cm高_開放式書櫃
 <br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
 投手位置 Pitcher's Position
