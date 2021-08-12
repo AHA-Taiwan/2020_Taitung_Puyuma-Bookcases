@@ -15,7 +15,6 @@
 ## 專案介紹：<br/>
 * 主要建材：柳杉直拼板 [40 x 80 x 0.6cm]、[30 x 80 x 1.2cm] 和 [30 x 80 x 0.6cm] 尺寸。
 * 數位模型［整體木構3D］：
-* 捕手位置 Catcher's Position: https://skfb.ly/ooMID
 
 捕手位置 Catcher's Position
 <br/>
