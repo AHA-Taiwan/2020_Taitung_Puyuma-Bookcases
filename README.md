@@ -1,14 +1,14 @@
-# 2020_Taitung_BalanSite
+# 2020_Taitung_Puyuma Bookcases
 
 >Humanitarian Architecture in Taitung<br/>
 >
-以台灣國產木材為主體構築材料之人道建築案例，主要材料來源自：行政院農業委員會林務局「台灣木材」標章、正昌製材有限公司「台灣杉」、誠豐製材有限公司「黃檜木」及東皇昌五金工具有限公司。由交大義築團隊策劃，公東高工家具木工科/室內設計科/建築科、台灣科技大學營建系、台北科技大學建築系、淡江大學建築研究所、雲林科技大學室內設計與建築系及交通大學土木工程學系/人文社會學系/電子工程學系等學校單位合作進行實作，計畫設置一簡易休憩處、同時作為可親近的考古文化學習據點。<br/>
+以台灣國產木材為主體構築材料之人道建築案例，主要材料來源自：行政院農業委員會林務局「台灣木材」標章、正昌製材有限公司「柳杉」及東皇昌五金工具有限公司。由木工職人之木製研究所企劃，在郭子老師、十八木人謝萌峯老師、天然製作所吳明學老師的指導下與七名學生合作進行實作，希望可以規劃出一個讓小朋友開心學習的天地，在黑板下方設計符合小朋友身高、可以坐著的櫃子。不僅是可以放書也可以拿來當成椅子，使小朋友使用上更加安全及妥善運用。<br/>
 
 ## 基地環境：<br/>
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/County/County.html?CID=10014 <br/>
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
-* Google Map 位置：https://goo.gl/maps/Q4HmF7Ct91mYNcTV6  <br/>
+* Google Map 位置：https://goo.gl/maps/DzHPxMKoTSe8Cu4t6  <br/>
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_BalanSite/blob/master/001.%20Blueprint/README%20IMAGE/BS_GMap.png)
 ***
