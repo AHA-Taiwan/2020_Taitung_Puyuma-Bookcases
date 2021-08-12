@@ -23,19 +23,22 @@ Digital Model Link: https://skfb.ly/oprNw
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
-Bookcase 02_80cm高_可關閉式書櫃
+Bookcase 02_80cm高_可關閉式書櫃<br/>
+Digital Model Link: https://skfb.ly/opqOD
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_02.png)
 <br/>
 <br/>
-Bookcase 03_上下層高書櫃
+Bookcase 03_上下層高書櫃<br/>
+Digital Model Link: https://skfb.ly/opqNC
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_03.png)
 <br/>
 <br/>
-Bookcase 04_地面可移動、當坐椅的小矮櫃
+Bookcase 04_地面可移動、當坐椅的小矮櫃<br/>
+Digital Model Link: https://skfb.ly/opqMR
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_04.png)
