@@ -18,6 +18,7 @@
 <br/>
 Bookcase 01_80cm 高開放式書櫃<br/>
 Digital Model: https://skfb.ly/oprNw<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
 ***
