@@ -15,20 +15,25 @@
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [15 x 4 x 360cm]、黃檜木 [15 x 4.2 x 250cm]、三分三六夾板 [190 x 180 x 0.9 cm]、L型鐵件 [6.5 x 6.5 x 0.1 cm]、不鏽鋼牙條 M10 、螺帽、袋帽和墊片等五金系統。
 * 數位模型［整體木構3D］：https://skfb.ly/ooK9t
-
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/BS_SketchFab%20Model.png)
 <br/>
 <br/>
-施工步驟＿基礎（Construction Process_Foundation）<br/>
-<br/>
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
-<br/>
-<br/>
-施工步驟＿樑柱結構（Construction Process_Structure）<br/>
-<br/>
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Structure.gif)
+Bookcase 01_80cm 高開放式書櫃<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
+Bookcases 02_80cm 高可關閉式書櫃<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_04.png)
+<br/>
+<br/>
+Bookcases 03_上下層高書櫃<br/>
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_03.png)
+<br/>
+<br/>
+Bookcases 04_地面可堆疊、坐的開放式小書櫃<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%20%2B%20GMap)/Sketchfab%20Models/PB_Bookcase_02.png)
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
