@@ -28,14 +28,16 @@ Bookcase 02_80cm高_可關閉式書櫃
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_02.png)
 <br/>
 <br/>
-捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Catcher_s%20Position.gif)
+Bookcase 03_上下層高書櫃
 <br/>
 <br/>
-投手區施工步驟（Construction Process of the Pitcher's Position）<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_03.png)
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Pitcher_s%20Position.gif)
+<br/>
+Bookcase 04_地面可移動、當坐椅的小矮櫃
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_04.png)
 <br/>
 <br/>
 ***
