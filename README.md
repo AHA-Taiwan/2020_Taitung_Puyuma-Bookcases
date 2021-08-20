@@ -21,7 +21,7 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 ***
 ## 專案介紹：<br/>
 * 主要建材：柳杉直拼板 [ 120 x 240 x 1.8 cm ]、[ 90 x 240 x 3.6 cm ] 和 [ 90 x 240 x 1.8 cm ] 尺寸。
-* 數位模型［ 整體木構3D ］：
+* 數位模型［ 整體木構 3D ］：
 
 Bookcase 01_80cm高_開放式書櫃<br/>
 Digital Model Link: https://skfb.ly/oprNw
