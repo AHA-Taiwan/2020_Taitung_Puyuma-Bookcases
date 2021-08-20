@@ -15,6 +15,12 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
 
+* 颱風與焚風（圖取自交通部中央氣象局）<br/>
+  左為：中央氣象局歸納颱風可能侵襲台灣之十條路徑圖；<br/>
+  右為：1991 至 2011 年間颱風侵襲台灣之個路徑次數（分母）在台東地區引發焚風之次數（分子）<br/>
+
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Typhoon%2BWind.png)
+
 * Google Map 位置：https://goo.gl/maps/DzHPxMKoTSe8Cu4t6  <br/>
 
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/PB_GMap.png)
@@ -23,14 +29,14 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 * 主要建材：柳杉直拼板 [ 120 x 240 x 1.8 cm ]、[ 90 x 240 x 3.6 cm ] 和 [ 90 x 240 x 1.8 cm ] 尺寸。
 * 數位模型［ 整體木構 3D ］：
 
-Bookcase 01_80cm高_開放式書櫃<br/>
+Bookcase 01_80 cm高_開放式書櫃<br/>
 Digital Model Link: https://skfb.ly/oprNw
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
-Bookcase 02_80cm高_可關閉式書櫃<br/>
+Bookcase 02_80 cm高_可關閉式書櫃<br/>
 Digital Model Link: https://skfb.ly/opqOD
 <br/>
 <br/>
