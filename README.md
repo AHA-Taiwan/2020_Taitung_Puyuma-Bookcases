@@ -23,14 +23,14 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 * 主要建材：柳杉直拼板 [ 120 x 240 x 1.8 cm ]、[ 90 x 240 x 3.6 cm ] 和 [ 90 x 240 x 1.8 cm ] 尺寸。
 * 數位模型［ 整體木構 3D ］：
 
-Bookcase 01_80 cm高_開放式書櫃<br/>
+Bookcase 01_h80 cm_開放式書櫃<br/>
 Digital Model Link: https://skfb.ly/oprNw
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_Puyuma-Bookcases/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BModels)/Sketchfab%20Models/PB_Bookcase_01.png)
 <br/>
 <br/>
-Bookcase 02_80 cm高_可關閉式書櫃<br/>
+Bookcase 02_h80 cm_可關閉式書櫃<br/>
 Digital Model Link: https://skfb.ly/opqOD
 <br/>
 <br/>
