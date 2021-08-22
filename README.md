@@ -13,7 +13,7 @@ https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewM
 * 台東縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
  （取自交通部中央氣象局，統計期間為 1991-2020 年）<br/>
 
-![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung%20Weather%20All.jpg)
 
 * Google Map 位置：https://goo.gl/maps/DzHPxMKoTSe8Cu4t6  <br/>
 
