@@ -69,7 +69,7 @@ https://github.com/AHA-Taiwan/Collab-Const-Source/wiki <br/>
 * 關於一般的常用構造技術（Techniques），請參閱［合作建造-學習知識 Collab-Const-Learning］：<br/>
 https://github.com/AHA-Taiwan/Collab-Const-Learning/wiki <br/>
 * 關於本案的特殊構築技術（Tectonic）， 請參閱［本案資料夾 002. Handbook］：<br/>
-https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/tree/master/002.%20Handbook <br/>
+https://github.com/AHA-Taiwan/2020_Taitung_Puyuma-Bookcases/tree/master/002.%20Handbook<br/>
 ***
 
 > #### 歡迎參與專案開發，Branch合併可向專案管理者提出請求
